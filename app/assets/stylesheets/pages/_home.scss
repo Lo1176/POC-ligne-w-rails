@@ -22,11 +22,13 @@
 .brand {
   display: flex;
   justify-content: space-around;
+  margin: 32px 0;
 }
 .card-brand {
   background-size: cover;
   background-position: center;
-  height: 180px;
+  height: 240px;
+  width: 320px;
   display: flex;
   justify-content: center;
   align-items: center;
